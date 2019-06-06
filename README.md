@@ -9,3 +9,4 @@ CPL-20191-Team7
   * 안준영(Project Developer)
   * 구민정(Project Developer)
   
+### 산학 협력 기업체의 요청으로 깃허브, 소프트웨어 등록, 논문 작성이 불가능 하였습니다.
